@@ -1,5 +1,7 @@
 This project is a simple web-based calculator that allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. The project is built using HTML, CSS, and JavaScript.
 
+Followed Step By Step by this Youtube Tutorial: https://www.youtube.com/watch?v=ptD2kjbQLgs&list=LL&index=3
+
 Features:
 Basic Arithmetic Operations: Users can perform addition, subtraction, multiplication, and division.
 
